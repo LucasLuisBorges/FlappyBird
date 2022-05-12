@@ -21,8 +21,6 @@ execute o arquivo:
 flappy.html
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
 
 ## 🛠️ Construído com
 
