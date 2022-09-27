@@ -1,5 +1,7 @@
 # FlappyBird
 
+![1](https://user-images.githubusercontent.com/70298807/192542713-15edefd9-cbee-4e1b-9303-092a44a1b1f1.jpg)
+
 Um site desenvolvido para ser um jogo chamado FlappyBird
 
 ## 🚀 Começando
